@@ -1,1 +1,1 @@
-# ai-hand-drawing
+# ai-hand-recognition
